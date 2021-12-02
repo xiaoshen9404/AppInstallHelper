@@ -1,4 +1,4 @@
-package com.supor.aiot.appinstaillhelper;
+package com.sandriver.apptools.appinstaillhelper;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
